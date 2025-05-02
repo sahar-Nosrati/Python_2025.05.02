@@ -1,1 +1,3 @@
-# Python_2025.05.02
+#  study Python
+  - finished if-else and match case 
+  - Study oop / Abstraction
